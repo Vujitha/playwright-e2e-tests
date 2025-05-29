@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9270","Login with valid credentials","webkit","Thu May 29 22:23:15 BST 2025","failed","Thu May 29 22:23:24 BST 2025","","login.spec.js","",""
+"","8914","Login with valid credentials","chromium","Thu May 29 22:23:15 BST 2025","failed","Thu May 29 22:23:24 BST 2025","","login.spec.js","",""
+"","10792","Login with valid credentials","firefox","Thu May 29 22:23:15 BST 2025","failed","Thu May 29 22:23:26 BST 2025","","login.spec.js","",""

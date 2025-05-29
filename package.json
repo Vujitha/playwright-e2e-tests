@@ -1,0 +1,19 @@
+{
+  "name": "practiceplaywright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "test": "npx playwright test",
+  "allure:generate": "allure generate ./allure-results --clean -o ./allure-report", // Generate Allure report by processing allure results
+  "allure:open": "allure open ./allure-report"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.17",
+    "allure-playwright": "^3.2.2"
+  }
+}
