@@ -9,4 +9,5 @@ test('Login with valid credentials', async ({ page }) => {
     await loginPage.goto();
     await loginPage.login(data.username, data.password);
     await expect(page).toHaveTitle("Swag Labs");
+
 })
